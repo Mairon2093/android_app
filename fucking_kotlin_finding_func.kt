@@ -1,6 +1,3 @@
-fun add_elements(to : MutableList <Int>, from : MutableList <Int>) {
-    for (x in from) to.add(x);
-}
 fun print_vec(vec : MutableList <Int>) {
     for (x in vec) {
         print(x);
